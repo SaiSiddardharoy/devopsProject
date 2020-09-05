@@ -1,5 +1,5 @@
 FROM  devopsedu/webapp
-MAINTAINER TEJA
+MAINTAINER Siddardha
 CMD yum -y install apache2
 CMD yum -y install php7.0
 CMD yum -y install libapache2-mod-php7.0
